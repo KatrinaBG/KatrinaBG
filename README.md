@@ -14,15 +14,13 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 
 [Documentation](https://pages.github.com/) I created
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatrinaBG)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Let's stay in touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/blaszko-gradzik-katarzyna//)  
 
 
 <!--
 **KatrinaBG/KatrinaBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatrinaBG)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
