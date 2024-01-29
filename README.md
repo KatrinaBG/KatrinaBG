@@ -14,6 +14,8 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 
 [Documentation](https://pages.github.com/) I created
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KatrinaBG&show_icons=true)  
+
 ### Let's stay in touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/blaszko-gradzik-katarzyna//)  
 
