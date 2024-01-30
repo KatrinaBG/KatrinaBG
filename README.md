@@ -22,7 +22,7 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 [Documentation] I created
 
 ### Projects:
-1. My first [project](https://github.com/KatrinaBG/DatabaseProject)). Created using C# and SQL technologies. I had a great time creating and developing this database. 
+1. My first [project](https://github.com/KatrinaBG/DatabaseProject). Created using C# and SQL technologies. I had a great time creating and developing this database. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KatrinaBG&show_icons=true)  
 
