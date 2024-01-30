@@ -19,7 +19,7 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="17"/> JavaScript
 - C#
 
-[Documentation] I created
+[Documentation](https://github.com/KatrinaBG/Documentation) I created
 
 ### Projects:
 1. My first [project](https://github.com/KatrinaBG/DatabaseProject). Created using C# and SQL technologies. I had a great time creating and developing this database. 
