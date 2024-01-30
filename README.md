@@ -17,6 +17,7 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="17"/> HTML
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="17"/>  Java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="17"/> JavaScript
+- C#
 
 [Documentation](https://pages.github.com/) I created
 
