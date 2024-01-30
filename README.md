@@ -12,6 +12,12 @@ I am a Junior Software Tester known for my keen attention to detail. I thrive on
 - <img src='https://www.shutterstock.com/image-vector/developer-tools-vector-icon-style-260nw-437379586.jpg' alt='devtools' height='17'> DevTools
 - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png' alt='word' height='17'> MS Word, <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png' alt='excel' height='17'> MS Excel, <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png' alt='powerpoint' height='17'> MS Power Point, <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png' alt='access' height='17'> MS Access
 
+### Languages:
+-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
+
 [Documentation](https://pages.github.com/) I created
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KatrinaBG&show_icons=true)  
